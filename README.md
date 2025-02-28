@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Vinoth
-- 👀 I’m interested in Gen AI, SciML & Augmenting computational methods with ML 
+- 👀 I’m interested in Gen AI, SciML & Augmenting Computational Methods with ML 
 - 🌱 I’m currently learning LLMOps
 
 
